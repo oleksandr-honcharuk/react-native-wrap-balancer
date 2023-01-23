@@ -1,0 +1,25 @@
+{
+  "name": "react-native-wrap-balancer",
+  "version": "0.1.0",
+  "description": "A Simple React Native Component Making Titles More Readable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theodo-UK/react-native-wrap-balancer.git"
+  },
+  "author": "Theodo UK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Theodo-UK/react-native-wrap-balancer/issues"
+  },
+  "homepage": "https://github.com/Theodo-UK/react-native-wrap-balancer#readme",
+  "devDependencies": {
+    "react": "^18.1.0"
+  },
+  "dependencies": {
+    "react-native": "^0.70.6"
+  }
+}
