@@ -11,8 +11,16 @@ It improves the wrapping to avoid situations like a single word in the last line
 
 ## Usage
 
+```javascript   
+import { BareBalancerContainer } from 'react-native-wrap-balancer';
+
+<BareBalancerContainer>some not balanced text</BareBalancerContainer>
+```
+
 ## About
 
 This project was inspired by Vercel's [react-wrap-balancer](https://react-wrap-balancer.vercel.app/)
 
 Created by [Callum Hemsley](https://twitter.com/hemsley_callum) and [Mo Javad](https://twitter.com/mo__javad) in 2023, released under the MIT license.
+
+Finished by [Oleksandr Honcharuk](https://www.linkedin.com/in/oleksandr-honcharuk-1b2062b0/)(write me) in 2024.
